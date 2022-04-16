@@ -1,6 +1,6 @@
 {
   "name": "@blanderbit/vue-resolver",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A flexible package that allows you to quickly configure a middleware for a router, with the ability to set up an authorization system, receive data for a page",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

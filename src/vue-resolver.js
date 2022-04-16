@@ -365,6 +365,12 @@ export class VueResolver {
                     this[METHOD_HOOK_ENUM.RESOLVER_FIRST_WORKER_ERROR]
                 )(firstWorkerError);
 
+
+                isFunction(
+                    afterIntercept,
+                    this[METHOD_HOOK_ENUM.AFTER_INTERCEPT]
+                )(firstWorkerError);
+
                 return next(false)
             }
 
@@ -393,12 +399,19 @@ export class VueResolver {
 
                     const paramsWithError = {
                         ...standardDataParams,
-                        error
+                        error: 'SECOND_WORKER_ERROR',
+                        errorDetails: error
                     };
 
                     isFunction(
                         resolveSecondWorkerError,
                         this[METHOD_HOOK_ENUM.RESOLVER_SECOND_WORKER_ERROR]
+                    )(paramsWithError);
+
+
+                    isFunction(
+                        afterIntercept,
+                        this[METHOD_HOOK_ENUM.AFTER_INTERCEPT]
                     )(paramsWithError);
 
                     return next(false);
