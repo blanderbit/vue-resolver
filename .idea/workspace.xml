@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f190e9-5864-4db7-b916-51e057d9172e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/@vuesual/vue-resolver.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/@vuesual/vue-resolver.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/cjs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/cjs/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/es/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/es/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/esm/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/esm/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/umd/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/umd/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vue-resolver.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/cjs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/cjs/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/es/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/es/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/esm/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/esm/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/umd/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/umd/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/vue-resolver.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/vue-resolver.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist1/vue-resolver.min.js.map" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/babel" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/babel-external-helpers" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist" beforeDir="false" />
@@ -117,14 +95,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/plugin-pass.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/util/clone-deep-browser.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/util/clone-deep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/bin/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/semver.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/files/index-browser.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/files/index.ts" beforeDir="false" />
@@ -174,14 +144,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/lib/targets.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/lib/types.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/bin/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/semver.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-create-class-features-plugin/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-create-class-features-plugin/README.md" beforeDir="false" />
@@ -217,14 +179,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/lib/visitors/entry.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/lib/visitors/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/lib/visitors/usage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/bin/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/node_modules/semver/semver.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/src/browser/dependencies.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-polyfill-provider/src/node/dependencies.js" beforeDir="false" />
@@ -236,10 +190,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-function-name/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-function-name/lib/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-function-name/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-get-function-arity/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-get-function-arity/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-get-function-arity/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-get-function-arity/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/lib/index.js" beforeDir="false" />
@@ -384,7 +334,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/lib/shouldStoreRHSInTemporaryVariable.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-optional-catch-binding/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-optional-catch-binding/README.md" beforeDir="false" />
@@ -622,14 +571,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/polyfills/regenerator.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/polyfills/utils.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/targets-parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/bin/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/node_modules/semver/semver.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-modules/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-modules/README.md" beforeDir="false" />
@@ -1113,14 +1054,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/lib/built-in-definitions.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/lib/helpers.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/bin/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/semver.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs3/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs3/README.md" beforeDir="false" />
@@ -1278,7 +1211,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-animation.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-any-link.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-appearance.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-apply-rule.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-at-counter-style.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-autofill.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/data/features/css-backdrop-filter.js" beforeDir="false" />
@@ -2136,14 +2068,11 @@
       <change beforePath="$PROJECT_DIR$/node_modules/deepmerge/rollup.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/define-properties/.jscs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/define-properties/.travis.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/define-properties/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/define-properties/test/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/README.md" beforeDir="false" />
@@ -2247,7 +2176,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/has-flag/license" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/has-flag/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/has-symbols/.eslintignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/has-symbols/.eslintrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/has-symbols/.github/FUNDING.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/has-symbols/.nycrc" beforeDir="false" />
@@ -2280,7 +2208,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/license" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-core-module/.eslintignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/is-core-module/.eslintrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/is-core-module/.nycrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/is-core-module/CHANGELOG.md" beforeDir="false" />
@@ -2351,7 +2278,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/jsesc/jsesc.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/jsesc/man/jsesc.1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/jsesc/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json5/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/json5/LICENSE.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/json5/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/json5/dist/index.js" beforeDir="false" />
@@ -2389,27 +2315,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/minimatch/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/minimatch/minimatch.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/minimatch/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/all_bool.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/bool.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/kv_short.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/long.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/num.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/proto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/short.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/stop_early.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/unknown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" />
@@ -2972,7 +2877,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/regjsparser/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/regjsparser/parser.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.eslintignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/.eslintrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/SECURITY.md" beforeDir="false" />
@@ -2990,7 +2894,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/sync.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/.eslintrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/core.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/abc/index.js" beforeDir="false" />
@@ -3098,7 +3001,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/semver/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/semver/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/semver/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/semver/range.bnf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/semver/semver.js" beforeDir="false" />
@@ -3167,7 +3069,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/terser/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/terser/bin/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/terser/bin/terser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser/bin/terser.mjs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/terser/bin/uglifyjs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/terser/dist/.gitkeep" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/terser/dist/bundle.min.js" beforeDir="false" />
@@ -3255,9 +3156,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/wrappy/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/wrappy/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/wrappy/wrappy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resolver.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3267,12 +3165,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="285">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-454" />
           </provider>
         </entry>
       </file>
@@ -3390,11 +3295,6 @@
               <item name="vue-resolver" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-resolver" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vue-resolver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-resolver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -3459,7 +3359,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26713000" />
+    <option name="totallyTimeSpent" value="26902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="789" extended-state="6" />
@@ -3468,6 +3368,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="TypeScript" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
@@ -3493,36 +3394,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git ignore" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/vue-resolver.mjs" />
     <entry file="file://$PROJECT_DIR$/index.min.js" />
     <entry file="file://$PROJECT_DIR$/lib/vue-resolver.min.js" />
     <entry file="file://$PROJECT_DIR$/lib/vue-resolver.js" />
     <entry file="file://$PROJECT_DIR$/index.js" />
-    <entry file="file://$PROJECT_DIR$/dist1/vue-resolver.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist1/es/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist1/umd/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist1/cjs/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist1/vue-resolver.min.js" />
+    <entry file="file://$PROJECT_DIR$/dist1/es/index.js" />
+    <entry file="file://$PROJECT_DIR$/dist1/umd/index.js" />
+    <entry file="file://$PROJECT_DIR$/dist1/cjs/index.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/rollup/dist/rollup.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -3537,23 +3422,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist1/vue-resolver.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3015">
-          <caret line="201" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist1/esm/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist1/vue-resolver.d.ts" />
+    <entry file="file://$PROJECT_DIR$/dist1/esm/index.js" />
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -3596,9 +3466,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-454" />
       </provider>
     </entry>
   </component>
