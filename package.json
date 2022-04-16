@@ -1,10 +1,10 @@
 {
-  "name": "@vuesual/vue-resolver",
+  "name": "@blanderbit/vue-resolver",
   "version": "0.1.1",
   "description": "A flexible package that allows you to quickly configure a middleware for a router, with the ability to set up an authorization system, receive data for a page",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rollup -c && cp vue-resolver.d.ts dist1/vue-resolver.d.ts"
+    "build": "rollup -c && cp vue-resolver.d.ts dist/vue-resolver.d.ts"
   },
   "repository": {
     "type": "git",
@@ -15,6 +15,8 @@
     "vue-resolver",
     "resolver",
     "guard",
+    "vue3-resolver",
+    "vue2-resolver",
     "beforeEnter"
   ],
   "author": "blanderbit",
